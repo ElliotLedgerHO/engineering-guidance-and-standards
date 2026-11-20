@@ -18,7 +18,7 @@ Teams only use tools that are approved for the use case. A tool is any software,
 ## Requirement(s)
 
 - [Tool and use case MUST be on the Technology Register](#tool-and-use-case-must-be-on-the-technology-register)
-- [New tools, use cases and extensions MUST be approved at TDA](#new-tools-use-cases-and-extensions-must-be-approved-at-tda)
+- [New tools, use cases, and extensions MUST be approved at TDA](#new-tools-use-cases-and-extensions-must-be-approved-at-tda)
 
 ### Tool and use case MUST be on the Technology Register
 
