@@ -22,7 +22,7 @@ Teams only use tools that are approved for the use case. A tool is any software,
 
 ### Tool and use case MUST be on the Technology Register
 
-Teams must only use a tool for a use case listed against it on the [Technology Register](https://technology-register-dev.cto-notprod.homeoffice.gov.uk).
+Teams must only use a tool for a use case listed against it on the Technology Register.
 
 This includes AI tools and their extensions.
 
