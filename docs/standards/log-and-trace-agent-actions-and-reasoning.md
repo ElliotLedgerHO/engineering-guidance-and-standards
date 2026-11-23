@@ -28,7 +28,7 @@ This standard applies to all AI agents that teams build, configure or use.
 ## Requirement(s)
 
 - [Tools MUST log agent actions and reasoning](#tools-must-log-agent-actions-and-reasoning)
-- [Reviewers MUST be able to access agent logs](#reviewers-must-be-able-to-access-agent-logs)
+- [Agent logs MUST be available for review](#agent-logs-must-be-available-for-review)
 - [Each agent MUST have its own identity](#each-agent-must-have-its-own-identity)
 - [Local AI tools MUST send audit or telemetry data to a central system](#local-ai-tools-must-send-audit-or-telemetry-data-to-a-central-system)
 
@@ -36,9 +36,9 @@ This standard applies to all AI agents that teams build, configure or use.
 
 Tools must log agent actions and, where available, the agent's intermediate reasoning. Without these logs, reviewers cannot see what an agent did or why.
 
-### Reviewers MUST be able to access agent logs
+### Agent logs MUST be available for review
 
-BODY/ROLE must be able to review agent usage, so teams must store logged data where they can reach it. Review only works if reviewers can reach the logs.
+Teams must store logged data so that authorised people can review how agents are used. Review only works if reviewers can reach the logs.
 
 ### Each agent MUST have its own identity
 
